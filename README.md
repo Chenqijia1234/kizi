@@ -38,6 +38,7 @@ kiz-lang 是一门 **面向对象（原型链模型）、强类型+动态类型(
 
 - [项目结构与功能说明](docs/项目结构与功能说明.md)
 - [kiz库开发指南](docs/kiz库开发指南.md)
+- [已知Bug清单](docs/已知Bug清单.md)
 - [提交issue/bug-report/feature-request/pull-request指南](docs/提交指南.md)
 
 ## 🔆 项目结构
